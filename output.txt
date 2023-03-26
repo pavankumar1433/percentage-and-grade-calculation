@@ -1,0 +1,16 @@
+percentage and grade
+Max Marks:
+600
+
+
+Obt Marks:
+550
+
+
+submit percentage:
+91.66666666666666
+
+
+Grade:
+super
+
